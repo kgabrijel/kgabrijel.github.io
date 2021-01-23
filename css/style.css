@@ -1,6 +1,7 @@
 /*Pocetak index.html css filea*/
 body{
     margin: 0px;
+    font-family: monospace;
     
 }
 .index-main{
@@ -212,6 +213,7 @@ footer{
 
 /* Kraj index.html css filea */
 /* Početak html.html css filea */
+/* Html main */
 .html-main{
     background-image: url(/images/realwall.jpg);
     background-size: cover;
@@ -238,3 +240,5 @@ footer{
     margin: 0px 20px 150px 20px;
     padding: 50px 10px 150px 10px;
 }
+/* Kraj html main */
+/* Kraj html.html css filea */
