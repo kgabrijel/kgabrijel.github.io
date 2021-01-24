@@ -5,7 +5,7 @@ body{
     
 }
 .index-main{
-    background-image: url(/images/realwal.jpg);
+    background-image: url(/images/realwall.jpg);
     background-size: cover;
     padding-bottom: 150px;
     padding-top: 20px;
@@ -68,7 +68,7 @@ header{
 .uvodni-main{
     display: flex;
     padding-top: 10px;
-    height: 400px;
+    height: 340px;
     margin-bottom: 150px;
 
 }
