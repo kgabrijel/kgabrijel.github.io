@@ -108,7 +108,7 @@ header{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 .boxh-link{
-    width: 210px;
+    width: 225px;
     background-image: url(/images/plava.jpg); 
     background-size: cover;
     height: 120px;
@@ -129,7 +129,7 @@ header{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 .boxc-link{
-    width: 210px;
+    width: 225px;
     background-image: url(/images/roza.jpg); 
     background-size: cover;
     height: 120px;
@@ -149,7 +149,7 @@ header{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 .boxj-link{
-    width: 210px;
+    width: 225px;
     background-image: url(/images/narancasta.jpg); 
     background-size: cover;
     margin-bottom: 20px;
@@ -164,7 +164,7 @@ header{
 }
 .boxtekst{
     margin-left: 5px;
-    margin-right: px;
+    margin-right:px;
     color:white;
     font-size: 18px;
     color: white;
